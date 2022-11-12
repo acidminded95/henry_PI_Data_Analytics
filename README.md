@@ -40,11 +40,11 @@ Finally, I created a couple tables that helped the analysis. One ('countries') t
 
 ![alt text](./assets/Report_Frontpage.png "Report Frontpage")
 
-![alt text](.\assets\Report_Timeline_Page.png "Report Timeline Page")
+![alt text](./assets/Report_Timeline_Page.png "Report Timeline Page")
 
-![alt text](.\assets\Report_Geography_Page.png "Report Geography Page")
+![alt text](./assets/Report_Geography_Page.png "Report Geography Page")
 
-![alt text](.\assets\Report_Prospect_Page.png "Report Prospect Page")
+![alt text](./assets/Report_Prospect_Page.png "Report Prospect Page")
 
 
 
