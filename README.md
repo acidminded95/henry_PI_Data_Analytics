@@ -5,10 +5,6 @@ This repository contains my third individual project for Henry Data Science care
 
 The proyect development is contained mostly in the 'test.ipynb' notebook, where the original data was extracted, transformed and loaded into a MySQL database, from where it was imported into a Power BI dashboard.
 
-Link to dashboard: 
-
-https://app.powerbi.com/links/61fBVpWCEY?ctid=56503a93-5742-4785-b4de-a97190ae92b3&pbi_source=linkShare
-
 ## What was expected from the project?
 
 This project consisted in the simulation of a contract between the ICAO (International Civil Aviation Organization) and a consulting agency where the task was to elaborate an investigation and analysis of a database containing data regarding aircraft accidents from 1908 to 2021 and present a report assisted by a dashboard that summarized the key points extracted from the provided data. The ICAO 'asked' from us to cross this information with some extra datasets that could complement the insights obtained from the original dataset.
@@ -39,6 +35,18 @@ Plus, I was able to create some extra columns with the help of API's that allowe
 So the original dataset ended up being a 12 columns dataset. But I also added a couple datasets ('passengers_per_year' and 'country_dim') from the World Bank page (https://data.worldbank.org/indicator/IS.AIR.PSGR?end=2020&most_recent_value_desc=true&start=1970&view=chart&year=2020) that also gave me information about yearly flight passengers by country and further data about the countries such as their region or their income classification. 
 
 Finally, I created a couple tables that helped the analysis. One ('countries') that directly related each country name to it's alpha2 code. A second one ('events') that contained registers about relevant events throughout the aviation history and their dates in order to complement the analysis.
+
+## Dashboard Screenshots: 
+
+![alt text](.\assets\Report_Frontpage.png "Report Frontpage")
+
+![alt text](.\assets\Report_Timeline_Page.png "Report Timeline Page")
+
+![alt text](.\assets\Report_Geography_Page.png "Report Geography Page")
+
+![alt text](.\assets\Report_Prospect_Page.png "Report Prospect Page")
+
+
 
 ## Quality Report
 
