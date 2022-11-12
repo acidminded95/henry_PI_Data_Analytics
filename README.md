@@ -38,7 +38,7 @@ Finally, I created a couple tables that helped the analysis. One ('countries') t
 
 ## Dashboard Screenshots: 
 
-![alt text](.\assets\Report_Frontpage.png "Report Frontpage")
+![alt text](./assets/Report_Frontpage.png "Report Frontpage")
 
 ![alt text](.\assets\Report_Timeline_Page.png "Report Timeline Page")
 
